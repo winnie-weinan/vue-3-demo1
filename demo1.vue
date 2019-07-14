@@ -16,6 +16,9 @@
                 {{item}}
             </li>
         </ul>
+        <div>
+            <h1>this is from shentong</h1>
+        </div>
     </div>
    <!-- <button type="button" @click="add()">添加</button>-->
 </template>
